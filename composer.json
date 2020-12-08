@@ -1,1 +1,14 @@
-{}
+{
+    "name": "pawel/meetings-rest",
+    "authors": [
+        {
+            "name": "PGorgolewski",
+            "email": "pgorgolewski01@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3",
+        "ext-json": "*",
+        "ext-sqlite3": "*"
+    }
+}
